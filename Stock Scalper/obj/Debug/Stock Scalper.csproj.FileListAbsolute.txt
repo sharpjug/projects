@@ -1,0 +1,26 @@
+C:\Users\PC\Desktop\Scalper\Stock Scalper\bin\Debug\Stock Scalper.exe.config
+C:\Users\PC\Desktop\Scalper\Stock Scalper\bin\Debug\Stock Scalper.exe
+C:\Users\PC\Desktop\Scalper\Stock Scalper\bin\Debug\Stock Scalper.pdb
+C:\Users\PC\Desktop\Scalper\Stock Scalper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\PC\Desktop\Scalper\Stock Scalper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock Scalper.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock_Scalper.Properties.Resources.resources
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock_Scalper.Stock_Analysis.resources
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock Scalper.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock Scalper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock Sc.B623E74B.Up2Date
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock Scalper.exe
+C:\Users\PC\Desktop\Scalper\Stock Scalper\obj\Debug\Stock Scalper.pdb
+C:\Users\PC\Desktop\Stock Scalper\bin\Debug\Stock Scalper.exe.config
+C:\Users\PC\Desktop\Stock Scalper\bin\Debug\Stock Scalper.exe
+C:\Users\PC\Desktop\Stock Scalper\bin\Debug\Stock Scalper.pdb
+C:\Users\PC\Desktop\Stock Scalper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\PC\Desktop\Stock Scalper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock Scalper.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock_Scalper.Properties.Resources.resources
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock_Scalper.Stock_Analysis.resources
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock Scalper.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock Scalper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock Sc.B623E74B.Up2Date
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock Scalper.exe
+C:\Users\PC\Desktop\Stock Scalper\obj\Debug\Stock Scalper.pdb

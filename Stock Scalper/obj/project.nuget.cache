@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKkrTGWEmyjHz/WPpsm2RNxfBrTh9SFTg5lUjqQfr2onUAyRywYtD87OMn0xOVw4ao5MDmR1wVOBEKeKMOabVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Stock Scalper\\Stock Scalper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+  "logs": []
+}
