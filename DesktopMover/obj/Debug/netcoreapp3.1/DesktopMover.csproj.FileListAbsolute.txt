@@ -1,0 +1,16 @@
+D:\Made Programs\DesktopMover\bin\Debug\netcoreapp3.1\DesktopMover.exe
+D:\Made Programs\DesktopMover\bin\Debug\netcoreapp3.1\DesktopMover.deps.json
+D:\Made Programs\DesktopMover\bin\Debug\netcoreapp3.1\DesktopMover.runtimeconfig.json
+D:\Made Programs\DesktopMover\bin\Debug\netcoreapp3.1\DesktopMover.runtimeconfig.dev.json
+D:\Made Programs\DesktopMover\bin\Debug\netcoreapp3.1\DesktopMover.dll
+D:\Made Programs\DesktopMover\bin\Debug\netcoreapp3.1\DesktopMover.pdb
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.Mover.resources
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.csproj.GenerateResource.cache
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.AssemblyInfoInputs.cache
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.AssemblyInfo.cs
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.csproj.CoreCompileInputs.cache
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.dll
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.pdb
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.genruntimeconfig.cache
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.GeneratedMSBuildEditorConfig.editorconfig
+D:\Made Programs\DesktopMover\obj\Debug\netcoreapp3.1\DesktopMover.Clones.resources
