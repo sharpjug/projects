@@ -1,0 +1,90 @@
+h:\documents\visual studio 2013\Projects\SQL Database\SQL Database\bin\Debug\SQL Database.exe.config
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\bin\Debug\DatabaseTest.mdf
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\bin\Debug\DatabaseTest_log.ldf
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\bin\Debug\SQL Database.exe
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\bin\Debug\SQL Database.pdb
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\obj\Debug\SQL Database.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\obj\Debug\SQL_Database.SQLTable.resources
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\obj\Debug\SQL_Database.Properties.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\obj\Debug\SQL Database.exe
+H:\Documents\Visual Studio 2013\Projects\SQL Database\SQL Database\obj\Debug\SQL Database.pdb
+C:\Users\kevin\Desktop\SQL Database\SQL Database\bin\Debug\SQL Database.exe.config
+C:\Users\kevin\Desktop\SQL Database\SQL Database\obj\Debug\SQL Database.exe
+C:\Users\kevin\Desktop\SQL Database\SQL Database\obj\Debug\SQL Database.pdb
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\SQL Database.exe.config
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.exe
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.pdb
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\SQL Database.exe
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\SQL Database.pdb
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL_Database.SQLTable.resources
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL_Database.Properties.Resources.resources
+C:\Users\kevin\Desktop\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.GenerateResource.Cache
+H:\SQL Database\SQL Database\bin\Debug\SQL Database.exe.config
+H:\SQL Database\SQL Database\obj\Debug\SQL Database.exe
+H:\SQL Database\SQL Database\obj\Debug\SQL Database.pdb
+H:\SQL Database\SQL Database\bin\Debug\SQL Database.exe
+H:\SQL Database\SQL Database\bin\Debug\SQL Database.pdb
+H:\SQL Database\SQL Database\obj\Debug\SQL Database.csprojResolveAssemblyReference.cache
+H:\SQL Database\SQL Database\obj\Debug\SQL_Database.SQLTable.resources
+H:\SQL Database\SQL Database\obj\Debug\SQL_Database.Properties.Resources.resources
+H:\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.GenerateResource.Cache
+C:\Users\kevin\Desktop\SQL Database\SQL Database\bin\Debug\SQL Database.exe
+C:\Users\kevin\Desktop\SQL Database\SQL Database\bin\Debug\SQL Database.pdb
+C:\Users\kevin\Desktop\SQL Database\SQL Database\obj\Debug\SQL Database.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\SQL Database\SQL Database\obj\Debug\SQL_Database.SQLTable.resources
+C:\Users\kevin\Desktop\SQL Database\SQL Database\obj\Debug\SQL_Database.Properties.Resources.resources
+C:\Users\kevin\Desktop\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.GenerateResource.Cache
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\SQL Database.exe.config
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\SQL Database.exe
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\SQL Database.pdb
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.AssemblyReference.cache
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL_Database.SQLTable.resources
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL_Database.Properties.Resources.resources
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.GenerateResource.cache
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.CoreCompileInputs.cache
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.exe
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.pdb
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Azure.Core.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Azure.Identity.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.Identity.Client.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Buffers.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Memory.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Memory.Data.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Numerics.Vectors.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Security.AccessControl.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Security.Permissions.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Security.Principal.Windows.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Text.Encodings.Web.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Text.Json.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\bin\Debug\System.ValueTuple.dll
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.csproj.SuggestedBindingRedirects.cache
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Database.exe.config
+D:\Stuff To Sort From Disks\3\Programmin'\Visual Studio\SQL Database\SQL Database\obj\Debug\SQL Data.AC1E46A1.Up2Date
