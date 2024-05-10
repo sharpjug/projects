@@ -8,3 +8,6 @@ Future projects:
 - Using Python to create a basic image editor ( Such as increasing the saturation of a photo )
 - Fully designing, and implementing two mobile games that I have in mind
 - A copy of a media platform to further improve my web development skills
+
+On the side:
+- Using Leetcode to improve and solve problems; link to profile: https://leetcode.com/u/deepsolver/
