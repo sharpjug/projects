@@ -1,0 +1,72 @@
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.exe.config
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.exe
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.pdb
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Properties.Resources.resources
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.exe
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.pdb
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\PC\Desktop\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.CopyComplete
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.exe.config
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.exe
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.pdb
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.pdb
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.xml
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.AssemblyReference.cache
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Properties.Resources.resources
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.GenerateResource.cache
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.CoreCompileInputs.cache
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.exe
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.pdb
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Asio.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Core.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Midi.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Wasapi.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.WinForms.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.WinMM.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.AccessControl.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.Principal.Windows.dll
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.xml
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.AccessControl.xml
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.Principal.Windows.xml
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Scalper.resources
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPri.F929848E.Up2Date
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Settings.resources
+D:\Made Programs\CPS\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Stock_Analysis.resources
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.exe.config
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.exe
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\ChartPriceScalper.pdb
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Asio.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Core.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Midi.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.Wasapi.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.WinForms.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.WinMM.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.AccessControl.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.Principal.Windows.dll
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.pdb
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\HtmlAgilityPack.xml
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\NAudio.xml
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.AccessControl.xml
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\bin\Debug\System.Security.Principal.Windows.xml
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.AssemblyReference.cache
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Properties.Resources.resources
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Scalper.resources
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.Settings.resources
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.GenerateResource.cache
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.csproj.CoreCompileInputs.cache
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPri.F929848E.Up2Date
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.exe
+D:\Programming Folder\ChartPriceScalper\ChartPriceScalper\obj\Debug\ChartPriceScalper.pdb
