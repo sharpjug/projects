@@ -11,3 +11,7 @@ Future projects:
 
 On the side:
 - Using Leetcode to improve and solve problems; link to profile: https://leetcode.com/u/deepsolver/
+
+In branches:
+- Flapflapbird made in Unity
+- Stock, Crypto, and BTC equivalent tracker and alerter; using API and web scraping.
