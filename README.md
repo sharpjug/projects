@@ -4,6 +4,7 @@ Working on:
 - Building a portfolio website
 
 Future projects:
+- A graphical sudoku solver, and basic verifier in Python
 - A basic blog page
 - Using Python to create a basic image editor ( Such as increasing the saturation of a photo )
 - Fully designing, and implementing two mobile games that I have in mind
