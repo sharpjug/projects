@@ -1,7 +1,7 @@
 Projects I made so far are uploaded apart from main game automation since it's too large of a file.
 
 Working on:
-- Using Unity to make a simple Flappy Bird game
+- Building a portfolio website
 
 Future projects:
 - A basic blog page
